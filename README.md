@@ -1,2 +1,4 @@
 # EndNote-Remarkable
-EndNote&lt;->Remarkable
+EndNote<->Remarkable
+
+
